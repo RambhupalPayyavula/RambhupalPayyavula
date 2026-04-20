@@ -15,7 +15,7 @@
 ## 🧠 Core Expertise
 
 - Distributed Data Processing (Spark, Kafka)
-- Batch, Near Real-Time, & ML Pipelines
+- Batch, Near Real-Time,Data & ML Pipelines
 - Data Modeling & Performance Optimization
 - Personalization & Propensity Modeling
 - Customer Behavior & Transaction Analytics
