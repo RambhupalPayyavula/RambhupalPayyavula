@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rambhupal. You can call me Ram
+# 👋 Hi, I'm Ram
 
-🚀 Building real-time data & ML systems for fintech
+🚀 Building Scalable data & ML systems for fintech
 
 ---
 
