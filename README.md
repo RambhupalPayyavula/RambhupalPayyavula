@@ -50,7 +50,6 @@
 ## 🧱 What I Focus On
 
 - Building scalable **data + AI platforms**
-- Real-time decision systems
 - Bridging **data engineering with machine learning**
 - Turning data into measurable business impact
 
