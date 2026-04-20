@@ -6,7 +6,7 @@
 
 ## ⚡ What I'm Working On
 
-- Designing **real-time data pipelines** (Kafka → Spark → Delta Lake)
+- Designing **Scalable data pipelines** (Kafka → Spark → Delta Lake)
 - Building **end-to-end ML systems** for customer intelligence
 - Developing **scalable data architectures** for high-volume systems
 
@@ -24,14 +24,17 @@
 
 ## 🔥 Featured Work
 
-🚀 **Real-Time Data Platform**  
+🚀 **Batch Data Pipeline**  
+→ End-to-end CDC pipeline (Postgres → Spark → Delta)
+
+🚀 **Near Real-Time Data Platform**  
 → End-to-end CDC pipeline (Postgres → Kafka → Spark → Delta)
 
 ⚡ **Spark Performance Optimization**  
 → Reduced shuffle, improved partitioning, optimized execution plans
 
 🧠 **ML Pipeline for Customer Intelligence**  
-→ Built models for offer redemption & user behavior prediction
+→ Built ML models for Merchant Geo Targetting
 
 ---
 
@@ -55,12 +58,11 @@
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Add your link]
-- Email: [Optional]
+- LinkedIn: https://www.linkedin.com/in/rambhupalpayyavula/
+- Email:
 
 ---
 
 ## 🧠 Philosophy
-
-I don’t just build pipelines or models.  
+ 
 I build **systems that scale, learn, and drive decisions.**
