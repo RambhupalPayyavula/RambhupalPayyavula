@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ram
 
-🚀 Building Scalable data & ML systems for fintech
+🚀 Building Scalable data & AIML systems for fintech
 
 ---
 
