@@ -64,5 +64,5 @@
 ---
 
 ## 🧠 Philosophy
- 
-I build **systems that scale, learn, and drive decisions.**
+The world is very big. There is always room to learn and improve by taking action on what we know. 
+So, I always keep myself curious and build **systems that scale, learn, and drive decisions.**
