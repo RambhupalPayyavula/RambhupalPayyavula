@@ -6,9 +6,10 @@
 
 ## ⚡ What I'm Working On
 
+- Developing **scalable data architectures** for high-volume systems
 - Designing **Scalable data pipelines** (Kafka → Spark → Delta Lake)
 - Building **end-to-end ML systems** for customer intelligence
-- Developing **scalable data architectures** for high-volume systems
+
 
 ---
 
