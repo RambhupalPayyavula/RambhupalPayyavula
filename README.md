@@ -42,7 +42,7 @@
 ## ⚙️ Tech Stack
 
 **Languages:** Python | Scala | SQL  
-**Big Data:** Spark | Kafka | Airflow | Delta Lake  
+**Big Data:** Spark | Kafka | Airflow | Delta Lake | AWS
 **Databases:** PostgreSQL | Parquet  
 **ML:** Scikit-learn | Feature Engineering | Model Evaluation  
 
